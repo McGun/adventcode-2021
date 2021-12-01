@@ -1,0 +1,15 @@
+{
+  "name": "markusekegren/adventcode-2021",
+  "authors": [
+    {
+      "name": "Markus Ekegren",
+      "email": "markus@jmgraphic.se"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Code\\": "src/"
+    }
+  }
+}
